@@ -66,3 +66,9 @@ Flask
 
 PyCryptodome
 
+⚠️ Disclaimer
+This encryption tool is strictly intended for educational purposes and authorized use only.
+Do not use it to encrypt or decrypt any files, texts, or data without proper authorization or ownership.
+Unauthorized access or manipulation of data is illegal and unethical.
+
+By using this tool, you acknowledge that you are solely responsible for your actions.
